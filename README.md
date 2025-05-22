@@ -33,6 +33,6 @@ The main goals of this project are:
 
 2. **Open the notebook:**
    ```bash
-   jupyter notebook data_wrangling_student.ipynb
+   jupyter notebook data_wrangling_student(Prashant Bhattarai).ipynb
 
 3. **Run all cells to see the data wrangling and insights in action.**
